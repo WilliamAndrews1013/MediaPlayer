@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MediaPlayer</string>
+    <string name="song_name">Song Name</string>
+    <string name="artist">Artist</string>
+    <string name="start_tv">0:00</string>
+    <string name="ending_tv">Loading...</string>
+    <string name="channel_name">Music Player Notification</string>
+    <string name="channel_description">Music Player notifications to control music</string>
+    <string name="hello">Hello.</string>
+    <string name="running">The service is ready</string>
+    <string name="choose">Choose a song to start playing</string>
+</resources>
